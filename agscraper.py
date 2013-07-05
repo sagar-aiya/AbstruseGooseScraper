@@ -12,7 +12,7 @@ def saveim(url,filename):
         print("Could not save file: "+filename);
 
 
-imageNo = 120
+imageNo = 1
 end = False
 notfoundcount = 0;
 while not end:
